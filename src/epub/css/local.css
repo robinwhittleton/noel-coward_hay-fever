@@ -150,8 +150,8 @@ section[epub|type~="z3998:scene"] > p{
 
 /* Dramatis personae scenes */
 dt{
-	font-variant: small-caps;
 	display: inline;
+	font-variant: small-caps;
 }
 
 dd{
